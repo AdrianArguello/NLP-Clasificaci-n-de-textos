@@ -1,1 +1,1 @@
-# NLP-Clasificaci-n-de-textos
+El objetivo de este proyecto es construir un modelo que clasifique textos como positivos o negativos, utilizando un enfoque de aprendizaje profundo y técnicas de procesamiento de lenguaje natural.La combinación de Tokenizer de Keras y NLTK para la preparación de datos y un perceptrón multicapa para la clasificación permite abordar problemas complejos en el análisis de sentimientos de manera eficiente.
